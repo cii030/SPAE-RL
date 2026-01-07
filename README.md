@@ -14,12 +14,9 @@ RLVR (Reinforcement Learning with Verifiable Rewards) provides only outcome-leve
   - **Potential Difference Shaping**: dense step-wise shaping based on potential increments to highlight pivotal transitions.
 
 The token-level advantage is:
-[\
-\hat{A}_{i,j}^{\text{SPAE}} =
-\hat{A}_i^{\text{Group}} \cdot f(\Phi_{i,\mathcal{M}(j)})
-+
-\xi \cdot g(\Delta \Phi_{i,\mathcal{M}(j)}).
-\]
+
+![equation](https://render.githubusercontent.com/render/math?math=\hat{A}_{i,j}^{SPAE}=\hat{A}_i^{Group}\cdot f(\Phi_{i,\mathcal{M}(j)})+\xi\cdot g(\Delta\Phi_{i,\mathcal{M}(j)}))
+
 ![SPAE Overview](assets/overview.png)
 
 ---

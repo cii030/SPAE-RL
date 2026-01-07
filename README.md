@@ -13,8 +13,6 @@ RLVR (Reinforcement Learning with Verifiable Rewards) provides only outcome-leve
   - **Potential Saturation Penalty**: downweights outcome credit after potential saturation to reduce redundant checking.
   - **Potential Difference Shaping**: dense step-wise shaping based on potential increments to highlight pivotal transitions.
 
-The token-level advantage is:
-
 ![SPAE Overview](assets/overview.png)
 
 ---

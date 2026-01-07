@@ -15,8 +15,6 @@ RLVR (Reinforcement Learning with Verifiable Rewards) provides only outcome-leve
 
 The token-level advantage is:
 
-![equation](https://render.githubusercontent.com/render/math?math=\hat{A}_{i,j}^{SPAE}=\hat{A}_i^{Group}\cdot f(\Phi_{i,\mathcal{M}(j)})+\xi\cdot g(\Delta\Phi_{i,\mathcal{M}(j)}))
-
 ![SPAE Overview](assets/overview.png)
 
 ---

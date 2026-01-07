@@ -43,7 +43,7 @@ This section provides a minimal, open-source–style example of the **training-f
     
 2. Extracts step boundaries (default delimiter is `".\n\n"` inside the `<think>...</think>` region).
     
-3. Inserts a probe prompt after each step: `**Final Answer**\n\boxed{`
+3. Inserts a probe prompt after each step: `**Final Answer**\n\n\\boxed{`
     
 4. Samples $N$ short continuations and estimates:
     

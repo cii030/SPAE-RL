@@ -91,7 +91,7 @@ python inference/probe_mechanism_example.py \
 --- 
 ## 🏋️ Training
 
-Our work builds upon and extends the [VeRL](https://github.com/volcengine/verl) framework. We train on [DAPO-MATH-17K]([BytedTsinghua-SIA/DAPO-Math-17k · Datasets at Hugging Face](https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k)).
+Our work builds upon and extends the [VeRL](https://github.com/volcengine/verl) framework. We train on [DAPO-MATH-17K](https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k).
 
 Our modifications are highlighted in **purple** in the figure below, while **orange** represents the standard VeRL RLVR training pipeline. All SPAE-specific changes are placed under:
 

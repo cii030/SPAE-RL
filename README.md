@@ -1,5 +1,12 @@
 # 🚀Step Potential Advantage Estimation: Harnessing Intermediate Confidence and Correctness for Efficient Mathematical Reasoning🚀
-
+<p align="center">
+  <a href="https://arxiv.org/abs/2601.03823">
+    <img src="https://img.shields.io/badge/arXiv-2601.03823-b31b1b.svg">
+  </a>
+  <a href="https://papers.cool/arxiv/2601.03823">
+    <img src="https://img.shields.io/badge/CoolPaper-Page-222222.svg">
+  </a>
+</p>
 Official implementation of **SPAE (Step Potential Advantage Estimation)** — a step-aware RLVR method that improves credit assignment and suppresses redundant post-solution checking via a training-free probe and Step Potential.
 
 ---
